@@ -11,6 +11,11 @@
 [submodule "aniMotum"]
 	path = aniMotum
 	url = https://github.com/ianjonsen/aniMotum
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	branch = devel
+	registered = false
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
@@ -26,6 +31,14 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/jmlondon/pathroutr
+	registered = false
 [submodule "remora"]
 	path = remora
 	url = https://github.com/imos-AnimalTracking/remora
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
