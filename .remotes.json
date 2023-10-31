@@ -23,5 +23,11 @@
     "url": "https://github.com/ropensci/rnaturalearthhires",
     "via": ["aniMotum"],
     "from": "aniMotum"
+  },
+  {
+    "package": "yaps",
+    "url": "https://github.com/baktoft/yaps",
+    "via": ["miscYAPS"],
+    "from": "miscYAPS"
   }
 ]

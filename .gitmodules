@@ -42,3 +42,7 @@
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
+[submodule "yaps"]
+	path = yaps
+	url = https://github.com/baktoft/yaps
+	registered = false
