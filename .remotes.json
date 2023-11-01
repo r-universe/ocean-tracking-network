@@ -7,6 +7,12 @@
     "from": "aniMotum"
   },
   {
+    "package": "otndo",
+    "url": "https://github.com/mhpob/otndo",
+    "via": ["matos"],
+    "from": "matos"
+  },
+  {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr",
     "via": ["aniMotum"],
