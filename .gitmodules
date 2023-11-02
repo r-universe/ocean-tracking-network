@@ -1,5 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ocean-tracking-network/ocean-tracking-network.r-universe.dev
 	branch = HEAD
+[submodule "YAPS"]
+	path = YAPS
+	url = https://github.com/baktoft/yaps
+[submodule "actel"]
+	path = actel
+	url = https://github.com/hugomflavio/actel
+[submodule "aniMotum"]
+	path = aniMotum
+	url = https://github.com/ianjonsen/aniMotum
+[submodule "glatos"]
+	path = glatos
+	url = https://github.com/ocean-tracking-network/glatos
+[submodule "matos"]
+	path = matos
+	url = https://github.com/mhpob/matos
+[submodule "miscYAPS"]
+	path = miscYAPS
+	url = https://github.com/robertlennox/miscYAPS
+[submodule "mort"]
+	path = mort
+	url = rosieluain/mort
+[submodule "otndo"]
+	path = otndo
+	url = https://github.com/mhpob/otndo
+[submodule "remora"]
+	path = remora
+	url = https://github.com/imos-AnimalTracking/remora
