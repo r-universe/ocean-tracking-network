@@ -42,6 +42,9 @@
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
+[submodule "surimi"]
+	path = surimi
+	url = https://github.com/ocean-tracking-network/surimi
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/baktoft/yaps
