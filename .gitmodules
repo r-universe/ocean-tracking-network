@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/ocean-tracking-network/ocean-tracking-network.r-universe.dev
 	branch = HEAD
-[submodule "YAPS"]
-	path = YAPS
-	url = https://github.com/baktoft/yaps
 [submodule "actel"]
 	path = actel
 	url = https://github.com/hugomflavio/actel
@@ -51,4 +48,3 @@
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/baktoft/yaps
-	registered = false
