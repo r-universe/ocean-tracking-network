@@ -28,6 +28,9 @@
 [submodule "mort"]
 	path = mort
 	url = rosieluain/mort
+[submodule "movepub"]
+	path = movepub
+	url = https://github.com/inbo/movepub
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
