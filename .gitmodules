@@ -42,6 +42,10 @@
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
+[submodule "rvdat"]
+	path = rvdat
+	url = https://github.com/mhpob/rvdat
+	registered = false
 [submodule "surimi"]
 	path = surimi
 	url = https://github.com/ocean-tracking-network/surimi

@@ -25,6 +25,12 @@
     "from": "aniMotum"
   },
   {
+    "package": "rvdat",
+    "url": "https://github.com/mhpob/rvdat",
+    "via": ["matos"],
+    "from": "matos"
+  },
+  {
     "package": "yaps",
     "url": "https://github.com/baktoft/yaps",
     "via": ["miscYAPS"],
