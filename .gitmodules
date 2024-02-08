@@ -45,7 +45,6 @@
 [submodule "rvdat"]
 	path = rvdat
 	url = https://github.com/mhpob/rvdat
-	registered = false
 [submodule "splusTimeDate"]
 	path = splusTimeDate
 	url = https://github.com/spkaluzny/splusTimeDate
