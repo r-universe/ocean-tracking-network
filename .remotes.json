@@ -50,6 +50,12 @@
     "from": "matos"
   },
   {
+    "package": "rvdat",
+    "url": "https://github.com/mhpob/rvdat",
+    "via": ["telemetar"],
+    "from": "telemetar"
+  },
+  {
     "package": "splusTimeDate",
     "url": "https://github.com/spkaluzny/splusTimeDate",
     "via": ["miscYAPS", "yaps"],
