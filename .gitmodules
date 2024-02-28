@@ -16,6 +16,9 @@
 	url = https://github.com/NMML/crawl
 	branch = devel
 	registered = false
+[submodule "diveMove"]
+	path = diveMove
+	url = https://github.com/spluque/diveMove
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
@@ -27,7 +30,7 @@
 	url = https://github.com/robertlennox/miscYAPS
 [submodule "mort"]
 	path = mort
-	url = rosieluain/mort
+	url = https://github.com/rosieluain/mort
 [submodule "movepub"]
 	path = movepub
 	url = https://github.com/inbo/movepub
