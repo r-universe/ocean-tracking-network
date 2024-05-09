@@ -28,9 +28,15 @@
 [submodule "miscYAPS"]
 	path = miscYAPS
 	url = https://github.com/robertlennox/miscYAPS
+[submodule "momentuHMM"]
+	path = momentuHMM
+	url = https://github.com/bmcclintock/momentuHMM
 [submodule "mort"]
 	path = mort
 	url = https://github.com/rosieluain/mort
+[submodule "moveHMM"]
+	path = moveHMM
+	url = https://github.com/TheoMichelot/moveHMM
 [submodule "movepub"]
 	path = movepub
 	url = https://github.com/inbo/movepub
