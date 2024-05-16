@@ -7,6 +7,19 @@
     "from": "aniMotum"
   },
   {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
+    "via": ["sporeg", "pathroutr"],
+    "branch": "devel",
+    "from": "sporeg"
+  },
+  {
+    "package": "glatos",
+    "url": "https://github.com/ocean-tracking-network/glatos",
+    "via": ["sporeg"],
+    "from": "sporeg"
+  },
+  {
     "package": "otndo",
     "url": "https://github.com/mhpob/otndo",
     "via": ["matos"],
@@ -17,6 +30,12 @@
     "url": "https://github.com/jmlondon/pathroutr",
     "via": ["aniMotum"],
     "from": "aniMotum"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["sporeg"],
+    "from": "sporeg"
   },
   {
     "package": "rnaturalearthhires",
