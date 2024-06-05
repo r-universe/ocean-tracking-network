@@ -71,6 +71,9 @@
 [submodule "surimi"]
 	path = surimi
 	url = https://github.com/ocean-tracking-network/surimi
+[submodule "telemetar"]
+	path = telemetar
+	url = https://github.com/mhpob/telemetar
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/baktoft/yaps
