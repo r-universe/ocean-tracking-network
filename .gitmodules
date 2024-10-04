@@ -74,6 +74,9 @@
 [submodule "telemetar"]
 	path = telemetar
 	url = https://github.com/mhpob/telemetar
+[submodule "wcUtils"]
+	path = wcUtils
+	url = https://github.com/noaa-afsc/wcUtils
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/baktoft/yaps
