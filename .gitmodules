@@ -5,6 +5,9 @@
 [submodule "RSP"]
 	path = RSP
 	url = https://github.com/yuriniella/RSP
+[submodule "TelemetrySpace"]
+	path = TelemetrySpace
+	url = https://github.com/meganwinton/TelemetrySpace
 [submodule "actel"]
 	path = actel
 	url = https://github.com/hugomflavio/actel
