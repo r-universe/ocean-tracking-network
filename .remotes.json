@@ -1,5 +1,18 @@
 [
   {
+    "package": "aniMotum",
+    "url": "https://github.com/ianjonsen/aniMotum",
+    "via": ["ArgosQC"],
+    "from": "ArgosQC"
+  },
+  {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
+    "via": ["ArgosQC", "aniMotum", "pathroutr"],
+    "branch": "devel",
+    "from": "ArgosQC"
+  },
+  {
     "package": "crawl",
     "url": "https://github.com/NMML/crawl",
     "via": ["aniMotum", "pathroutr"],
@@ -28,6 +41,12 @@
   {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["ArgosQC", "aniMotum"],
+    "from": "ArgosQC"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
     "via": ["aniMotum"],
     "from": "aniMotum"
   },
@@ -36,6 +55,12 @@
     "url": "https://github.com/jmlondon/pathroutr",
     "via": ["sporeg"],
     "from": "sporeg"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["ArgosQC"],
+    "from": "ArgosQC"
   },
   {
     "package": "rnaturalearthhires",
