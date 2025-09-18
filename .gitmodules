@@ -7,7 +7,7 @@
 	url = https://github.com/yuriniella/RSP
 [submodule "TelemetrySpace"]
 	path = TelemetrySpace
-	url = https://github.com/meganwinton/TelemetrySpace
+	url = https://github.com/trackyverse/TelemetrySpace
 [submodule "actel"]
 	path = actel
 	url = https://github.com/hugomflavio/actel
@@ -25,6 +25,9 @@
 [submodule "glatos"]
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
+[submodule "kaltoa"]
+	path = kaltoa
+	url = https://gitlab.com/RTbecard/kaltoa
 [submodule "matos"]
 	path = matos
 	url = https://github.com/mhpob/matos
