@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ocean-tracking-network/ocean-tracking-network.r-universe.dev
 	branch = HEAD
+[submodule "ArgosQC"]
+	path = ArgosQC
+	url = https://github.com/ianjonsen/ArgosQC
 [submodule "RSP"]
 	path = RSP
 	url = https://github.com/yuriniella/RSP
