@@ -8,7 +8,7 @@
   {
     "package": "crawl",
     "url": "https://github.com/NMML/crawl",
-    "via": ["ArgosQC", "aniMotum", "pathroutr"],
+    "via": ["ArgosQC", "pathroutr"],
     "branch": "devel",
     "from": "ArgosQC"
   },
@@ -41,7 +41,7 @@
   {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr",
-    "via": ["ArgosQC", "aniMotum"],
+    "via": ["ArgosQC"],
     "from": "ArgosQC"
   },
   {
