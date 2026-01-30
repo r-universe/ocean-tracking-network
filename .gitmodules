@@ -17,11 +17,6 @@
 [submodule "aniMotum"]
 	path = aniMotum
 	url = https://github.com/ianjonsen/aniMotum
-[submodule "crawl"]
-	path = crawl
-	url = https://github.com/NMML/crawl
-	branch = devel
-	registered = false
 [submodule "diveMove"]
 	path = diveMove
 	url = https://github.com/spluque/diveMove
@@ -52,28 +47,12 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
-[submodule "pathroutr"]
-	path = pathroutr
-	url = https://github.com/jmlondon/pathroutr
-	registered = false
 [submodule "remora"]
 	path = remora
 	url = https://github.com/imos-AnimalTracking/remora
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
 [submodule "rvdat"]
 	path = rvdat
 	url = https://github.com/mhpob/rvdat
-[submodule "splusTimeDate"]
-	path = splusTimeDate
-	url = https://github.com/spkaluzny/splusTimeDate
-	registered = false
-[submodule "splusTimeSeries"]
-	path = splusTimeSeries
-	url = https://github.com/spkaluzny/splusTimeSeries
-	registered = false
 [submodule "sporeg"]
 	path = sporeg
 	url = https://github.com/mebowers5/sporeg
