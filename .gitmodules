@@ -47,6 +47,9 @@
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/mhpob/pathroutr
 [submodule "remora"]
 	path = remora
 	url = https://github.com/imos-AnimalTracking/remora
